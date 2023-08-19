@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>GemOracle: Predicting Precious Stone Prices</title>
+</head>
+<body>
+    <div class="main">
+        <h1>GemOracle: Predicting Precious Stone Prices</h1>
+
+        <div class="form-box">
+            
+            <h2>Carat: Carat weight of the precious stone.</h2>
+
+            
+            <h2>Depth: Depth percentage of the precious stone.</h2>
+
+            
+            <h2>Table: Table width percentage of the precious stone.</h2>
+
+            
+            <h2>x: Length in mm (x dimension) of the precious stone.</h2>
+
+            
+            <h2>y: Width in mm (y dimension) of the precious stone.</h2>
+
+            
+            <h2>z: Depth in mm (z dimension) of the precious stone.</h2>
+
+            
+            <h2>Cut: Cut quality of the precious stone.</h2>
+
+            
+            <h2>Color: Color grade of the precious stone.</h2>
+
+            <h2>Clarity: Clarity grade of the precious stone.</h2>
+        </div>
+        <div class="center-button">
+            <a href="{{ url_for('predict_datapoint') }}" class="predict-button">Give the Values</a>
+        </div>
+    </div>
+</body>
+</html>

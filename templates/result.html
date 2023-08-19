@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>GemOracle: Predicting Precious Stone Prices</title>
+</head>
+<body>
+    <div class="main">
+        <h1>GemOracle: Predicting Precious Stone Prices</h1>
+
+        <div class="form-box">
+            <h2>Predicted Price:</h2>
+            <p>Your Diamond is estimated to be valued  {{ final_result }} Rupees</p>
+        </div>
+
+        <div class="center-button">
+            <a href="{{ url_for('home_page') }}" class="predict-button">Back to Home</a>
+        </div>
+    </div>
+</body>
+</html>

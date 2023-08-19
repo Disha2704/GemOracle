@@ -1,0 +1,115 @@
+
+.main {
+  color: white;
+  border: 1px solid black;
+  background-image: url('https://www.siebkehoyt.com/cdn/shop/articles/Diamond_54a66bf5-7c43-4e6b-a911-9cd13ac0a75c_2240x.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 150vh;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+
+.form-box {
+  margin-top: 5rem; /* Adjust margin to move form down */
+  padding: 20px;
+  border-radius: 4px;
+  width: 50%;
+}
+
+label {
+  margin-bottom: 10px;
+  font-weight: bold;
+  color: white;
+  text-align: left;
+}
+
+h1 {
+  text-align: left;
+  color: white;
+  margin-top: 3rem; /* Adjust margin to move h1 down */
+  margin-left: 10px;
+}
+
+h2 {
+  text-align: left;
+  margin-top: 1rem; /* Adjust margin to move h2 down */
+}
+
+input[type="submit"] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 1rem; /* Adjust margin to move submit button down */
+  display: block;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+input[type="text"], select {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.form-group {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  width: 30%;
+}
+
+.form-group label {
+  margin-bottom: 5px;
+}
+.predict-button {
+  display: inline-block;
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px 20px;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.predict-button:hover {
+  background-color: #45a049;
+}
+
+.centered-button {
+  display: inline-block;
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 10px;
+  cursor: pointer;
+  margin: 0 auto; /* Center-align the button */
+  display: block; /* Make it a block-level element to center it horizontally */
+}
+
+.centered-button:hover {
+  background-color: #45a049;
+}

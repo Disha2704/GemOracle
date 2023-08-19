@@ -1,0 +1,75 @@
+[ 2023-08-19 11:01:16,578 ] 187 werkzeug - WARNING -  * Debugger is active!
+[ 2023-08-19 11:01:16,578 ] 187 werkzeug - INFO -  * Debugger PIN: 203-111-152
+[ 2023-08-19 11:01:33,433 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:01:33] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:01:33,625 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:01:33] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-19 11:01:35,406 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:01:35] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:01:35,429 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:01:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:02:57,057 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:02:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:02:57,080 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:02:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:02:57,884 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:02:57] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:02:57,904 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:02:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:02:58,284 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:02:58] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:02:58,304 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:02:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:02:58,471 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:02:58] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:02:58,498 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:02:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:04:45,596 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:04:45] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:04:45,620 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:04:45] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-19 11:06:01,609 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:06:01] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:06:01,636 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:06:01] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-19 11:06:03,271 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:06:03] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:06:03,318 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:06:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:08:19,444 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:08:19] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:08:19,466 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:08:19] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-19 11:09:32,014 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:09:32] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:09:32,034 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:09:32] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-19 11:13:39,443 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:39] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:13:39,463 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:39] "GET /static/style.css HTTP/1.1" 200 -
+[ 2023-08-19 11:13:40,247 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:13:40,273 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:13:40,424 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:13:40,445 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:13:40,579 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:13:40,599 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:13:40,712 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:13:40,733 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:13:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:32:58,177 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:32:58] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:32:58,218 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:32:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:34:30,285 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:34:30] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:34:30,310 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:34:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:34:33,044 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:34:33] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:34:33,083 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:34:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:37:48,652 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:37:48] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:37:48,688 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:37:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:37:50,908 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:37:50] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:37:50,944 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:37:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:38:10,471 ] 67 root - INFO - Dataframe Gathered
+[ 2023-08-19 11:38:10,687 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:38:10] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:38:12,295 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:38:12] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:38:13,139 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:38:13] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:38:13,173 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:38:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:38:14,663 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:38:14] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:38:14,704 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:38:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:40:52,302 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:40:52] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2023-08-19 11:40:52,326 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:40:52] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:40:52,339 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:40:52] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:40:52,378 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:40:52] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:40:52,415 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:40:52] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:41:07,152 ] 67 root - INFO - Dataframe Gathered
+[ 2023-08-19 11:41:07,194 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:41:07] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:41:07,229 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:41:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:42:47,329 ] 67 root - INFO - Dataframe Gathered
+[ 2023-08-19 11:42:47,373 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:42:47] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:42:47,391 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:42:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:43:19,357 ] 67 root - INFO - Dataframe Gathered
+[ 2023-08-19 11:43:19,398 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:43:19] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:43:19,423 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:43:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:43:36,367 ] 67 root - INFO - Dataframe Gathered
+[ 2023-08-19 11:43:36,403 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:43:36] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:43:36,425 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:43:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:43:40,881 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:43:40] "GET / HTTP/1.1" 200 -
+[ 2023-08-19 11:43:40,905 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:43:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:43:42,298 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:43:42] "GET /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:43:42,341 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:43:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2023-08-19 11:51:06,193 ] 67 root - INFO - Dataframe Gathered
+[ 2023-08-19 11:51:06,232 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:51:06] "POST /predict HTTP/1.1" 200 -
+[ 2023-08-19 11:51:06,261 ] 187 werkzeug - INFO - 127.0.0.1 - - [19/Aug/2023 11:51:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
